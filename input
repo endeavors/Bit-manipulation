@@ -1,0 +1,6 @@
+set 2 3
+clear 5
+toggle 0x55 3
+shift -3
+set 5
+quit
